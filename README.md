@@ -51,7 +51,7 @@ Ensure the following software is installed on your machine:
 
 **Clone this repository to your local machine:**
 
-git clone https://github.com/your-username/repo-name.git  
+git clone https://github.com/nihaal2707/CRM-with-Drupal-Docker.git  
 cd repo-name  
 
 ### **2.) Pull the Drupal Docker Image**
