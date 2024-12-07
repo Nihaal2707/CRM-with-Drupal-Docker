@@ -3,7 +3,7 @@
 This project demonstrates the deployment of an open-source CRM system using Drupal, hosted via Docker. Drupal is a powerful open-source content management framework widely used for web applications and CRM solutions. This setup provides a containerized environment, ensuring quick deployment and scalability.
 
 
-## ** Table of Contents**
+## **Table of Contents**
 
 **1.)** About the Project
 
@@ -16,11 +16,11 @@ This project demonstrates the deployment of an open-source CRM system using Drup
 **5.)** Usage
 
 
-## ** About the Project**
+## **About the Project**
 
 This project deploys a Drupal instance using Docker containers, leveraging the official Drupal Docker image from Docker Hub. The system enables users to set up and experiment with an open-source CRM in an isolated and lightweight environment.
 
-## ** Technologies Used**
+## **Technologies Used**
 
 **[Drupal](https://hub.docker.com/_/drupal/):** Open-source content management system (CMS).
 
